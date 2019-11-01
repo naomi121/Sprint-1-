@@ -20,4 +20,4 @@ Horiztonal axis
 5.Explain why git is valuable to a team of developers.
 git is valuable to a team of developers because lets say you were working in a company and you were assigned a project to work 
 with your other developers.While everyone is working on the same project using git shows when each developer is making changes by using
- the commands git add git commit and git push this allows for developers to be able to notify others that they are making changes everytime you use the three commands the changes appear on github wihtout this it would be complicated to work together .......
+ the commands git add git commit and git push this allows for developers to be able to notify others that they are making changes everytime you use the three commands the changes appear on github wihtout this it would be complicated to work together.
